@@ -1,2 +1,2 @@
 # ERC721-with-VRF
-Basci NFT collection with chainlink VRF implementaion
+Basic NFT collection with two-level floor price + chainlink VRF implementaion.
